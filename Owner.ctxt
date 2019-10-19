@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Owner
+comment0.text=\n\ Write\ a\ description\ of\ class\ Owner\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Owner()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Owner\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getHall()
+comment3.params=
+comment3.target=int\ getId()
+comment4.params=hall
+comment4.target=void\ setHall(java.util.ArrayList)
+comment5.params=Id
+comment5.target=void\ setId(int)
+comment6.params=
+comment6.target=void\ createHall()
+comment7.params=hall
+comment7.target=void\ addHall(Hall)
+comment8.params=hall
+comment8.target=void\ removeHall(Hall)
+numComments=9
