@@ -1,0 +1,6 @@
+1,Hadria,Dressel,Juliett,Shopko,2692444093,hdressel0@hall.primeevent.com.au,false,Optus,0.1,42,Whiskey,255.1
+4,Thelma,Golf,Porter,Parkway,7945117566,twaple4@hall.primeevent.com.au,true,Wedding,0.9,215,Sierra,90.0
+3,Paige,Zamudio,Yankee,Foxtrot,9985051062,pzamudio2@tripadvisor.com.au,false,Birthday,0.35,500,Juliett,236.5
+2,Manny,MacChaell,Romeo,Parkway,5017814103,mmacchaell1@moonfruit.com.au,true,Grand,0.8,51,Kilo,122.0
+5,e@primeevent.com.au,Bullshit,Wo cow,Brothel,0836985124,defet@hall.primeevent.com.au,false,sexy,0.1,500,Yamy,58.7
+6,e@primeevent.com.au,Carlifornia Club,Functionality,St Kilda,0365289741,carlifornia.club@hall.primeevent.com.au,true,Birthday,0.03,87,XXXX~~~~xxx,54.3

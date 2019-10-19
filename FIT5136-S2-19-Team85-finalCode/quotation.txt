@@ -1,0 +1,16 @@
+1,11,a@primeevent.com.au,23.7,true,70,11/10/2017,11/12/2017,beer
+2,12,a@primeevent.com.au,23.7,false,70,11/10/2017,11/12/2017,beer
+3,13,a@primeevent.com.au,23.7,false,70,11/10/2017,11/12/2017,beer
+4,14,a@primeevent.com.au,23.7,true,70,11/10/2017,11/12/2017,beer
+5,15,a@primeevent.com.au,23.7,true,70,11/10/2017,11/12/2017,beer
+6,16,a@primeevent.com.au,23.7,false,70,11/10/2017,11/12/2017,beer
+7,17,a@primeevent.com.au,23.7,true,70,11/10/2017,11/12/2017,beer
+8,18,a@primeevent.com.au,23.7,true,70,11/10/2017,11/12/2017,beer
+9,11,e@primeevent.com.au,23.7,true,70,11/10/2017,11/12/2017,beer
+11,13,e@primeevent.com.au,23.7,false,70,11/10/2017,11/12/2017,beer
+12,14,e@primeevent.com.au,23.7,true,70,11/10/2017,11/12/2017,beer
+13,15,e@primeevent.com.au,23.7,true,70,11/10/2017,11/12/2017,beer
+15,17,e@primeevent.com.au,23.7,true,70,11/10/2017,11/12/2017,beer
+16,18,e@primeevent.com.au,23.7,true,70,11/10/2017,11/12/2017,beer
+14,16,e@primeevent.com.au,23.7,true,70,11/10/2017,11/12/2017,beer
+10,12,e@primeevent.com.au,23.7,true,70,11/10/2017,11/12/2017,beer

@@ -1,0 +1,13 @@
+Customer,a@primeevent.com.au,123,Jeremy,Howe,Collingwood,1234567890
+Customer,b@primeevent.com.au,123,Jeremy,Howe,Collingwood,1234567890
+Customer,c@primeevent.com.au,123,Jeremy,Howe,Collingwood,1234567890
+Owner,d@primeevent.com.au,123,Jeremy,Howe,Collingwood,1234567890
+Owner,e@primeevent.com.au,123,Jeremy,Howe,Collingwood,1234567890
+Customer,f@primeevent.com.au,123,Jeremy,Howe,Collingwood,1234567890
+Owner,g@primeevent.com.au,123,Jeremy,Howe,Collingwood,1234567890
+Customer,h@primeevent.com.au,123,Jeremy,Howe,Collingwood,1234567890
+Customer,i@primeevent.com.au,123,Jeremy,Howe,Collingwood,1234567890
+Owner,j@primeevent.com.au,123,Jeremy,Howe,Collingwood,1234567890
+Customer,k@primeevent.com.au,123,Jeremy,Howe,Collingwood,1234567890
+Customer,i@primeevent.com.au,123,Jeremy,Howe,Collingwood,1234567890
+Owner,howardzhao008@primeevent.com.au,123,Haowen,ZHAO,Dockerlands,0450339800
