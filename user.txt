@@ -1,0 +1,6 @@
+Customer,adfds@primeevent.com.au,123,gaafd,ADS,adsf,1234567890
+Customer,howard@primeevent.com.au,222,sfg,R,fdsg,1212121212
+Customer,afd@primeevent.com.au,222,sfg,R,fdsg,1212121212
+Owner,dsadga@primeevent.com.au,321,adsf,AFD,afd,1234567890
+Customer,daf@primeevent.com.au,111,231,AFD,dsg,1234456789
+Customer,dsafd@primeevent.com.au,222,sfg,R,fdsg,1212121212
